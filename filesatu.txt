@@ -1,1 +1,3 @@
-belajar git 
+belajar git. selasa tanggal 1 september
+
+sudah dirubah menjadi versi 2 
